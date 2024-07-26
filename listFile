@@ -1,0 +1,17 @@
+void main() {
+  
+List<String> names = ['Ali', 'Ibrahim', 'Suleiman', 'Zubair', 'Aima'];
+print(names);
+  
+List<String> days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
+  
+print(days[6]);
+  
+// create a list  of name, class, roll no, grade, percentage. And print. 
+
+var studentData = ['Ali', 'Flutter 101', 1862, 'B+', 65];
+
+print(studentData);
+  
+
+}
